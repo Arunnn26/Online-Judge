@@ -16,7 +16,6 @@ Welcome to the Online Judge, a powerful platform designed to evaluate and assess
 
 - **Efficient Deployment on AWS EC2:** Deployed on AWS EC2 for reliability and scalability. The project utilizes Gunicorn as the HTTP server and Apache2 as a reverse proxy, enhancing performance and accessibility for users on my custom domain.
 
-visit here: https://deepanshu-sahu-projects.live/
 
 ## Prerequisites
 
@@ -33,7 +32,7 @@ Follow these steps to set up the project:
 1. **Clone the Repository:**
 
    ```bash
-   git clone https://github.com/dee077/Online_Judge.git
+   git clone https://github.com/Arunnn26/Online_Judge.git
    cd Online_Judge
    ```
 
